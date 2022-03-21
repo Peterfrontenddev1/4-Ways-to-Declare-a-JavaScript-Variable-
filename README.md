@@ -10,11 +10,14 @@ The different ways to declare a variable in javascript
       Using const
       
       Using nothing
+
+Using var
+
 Variables are containers for storing data (storing data values).
 
 In this example, x, y, and z, are variables, declared with the var keyword:
 
-Example
-var x = 5;
-var y = 6;
-var z = x + y;
+      Example
+      var x = 5;
+      var y = 6;
+      var z = x + y;
