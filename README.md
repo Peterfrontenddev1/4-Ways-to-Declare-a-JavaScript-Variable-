@@ -29,3 +29,10 @@ In this example, x, y, and z, are variables, declared with the let keyword:
       let x = 5;
       let y = 6;
       let z = x + y;
+
+In this example, x, y, and z, are undeclared variables:
+
+Example
+x = 5;
+y = 6;
+z = x + y;
