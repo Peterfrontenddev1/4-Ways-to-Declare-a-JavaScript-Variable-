@@ -5,6 +5,6 @@ The different ways to declare a variable in javascript
 
       Using var
       
-Using let
+      Using let
 Using const
 Using nothing
