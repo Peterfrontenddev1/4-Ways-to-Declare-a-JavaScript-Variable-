@@ -8,4 +8,5 @@ The different ways to declare a variable in javascript
       Using let
       
       Using const
+      
 Using nothing
