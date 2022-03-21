@@ -32,7 +32,14 @@ In this example, x, y, and z, are variables, declared with the let keyword:
 
 In this example, x, y, and z, are undeclared variables:
 
-Example
-x = 5;
-y = 6;
-z = x + y;
+      Example
+      x = 5;
+      y = 6;
+      z = x + y;
+
+In this example, price1, price2, and total, are variables:
+
+      Example
+      const price1 = 5;
+      const price2 = 6;
+      let total = price1 + price2;
