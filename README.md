@@ -9,4 +9,4 @@ The different ways to declare a variable in javascript
       
       Using const
       
-Using nothing
+      Using nothing
