@@ -7,5 +7,5 @@ The different ways to declare a variable in javascript
       
       Using let
       
-Using const
+      Using const
 Using nothing
